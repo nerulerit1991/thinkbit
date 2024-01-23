@@ -1,0 +1,10 @@
+<svg id="medical_services-24px" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_61" data-name="Group 61">
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="48" height="48" fill="none"/>
+  </g>
+  <g id="Group_63" data-name="Group 63" transform="translate(4 4)">
+    <g id="Group_62" data-name="Group 62">
+      <path id="Path_20" data-name="Path 20" d="M38,10H30V6a4.012,4.012,0,0,0-4-4H18a4.012,4.012,0,0,0-4,4v4H6a4.012,4.012,0,0,0-4,4V38a4.012,4.012,0,0,0,4,4H38a4.012,4.012,0,0,0,4-4V14A4.012,4.012,0,0,0,38,10ZM18,6h8v4H18ZM30,28H24v6H20V28H14V24h6V18h4v6h6Z" transform="translate(-2 -2)" fill="#003279"/>
+    </g>
+  </g>
+</svg>

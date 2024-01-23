@@ -1,0 +1,8 @@
+<svg id="single_bed-24px" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_59" data-name="Group 59">
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="48" height="48" fill="none"/>
+  </g>
+  <g id="Group_60" data-name="Group 60" transform="translate(8 10)">
+    <path id="Path_19" data-name="Path 19" d="M36,19a4.012,4.012,0,0,0-4-4V9a4.012,4.012,0,0,0-4-4H12A4.012,4.012,0,0,0,8,9v6a4.012,4.012,0,0,0-4,4V29H6.66L8,33h2l1.34-4H28.68L30,33h2l1.34-4H36Zm-8-4H22V9h6ZM12,9h6v6H12ZM8,19H32v6H8Z" transform="translate(-4 -5)" fill="#003279"/>
+  </g>
+</svg>
