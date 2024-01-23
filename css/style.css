@@ -119,6 +119,7 @@ nav .dropdown-menu li a {
   box-shadow: #0000003D 0 0 28px;
   margin: auto;
   display: block;
+  width: 100%;
 }
 #about .feat-desc {
   display: flex;
