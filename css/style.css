@@ -112,6 +112,7 @@ nav .dropdown-menu li a {
 /* ABOUT */
 #about {
   padding: 34px 0;
+  content-visibility: auto;
 }
 #about .feat-img {
   padding: 10px;
@@ -168,6 +169,7 @@ nav .dropdown-menu li a {
 #services {
   background: url('../images/services_bg.png');
   padding: 34px 10px;
+  content-visibility: auto;
 }
 
 #services .desc h2 {
@@ -210,6 +212,7 @@ nav .dropdown-menu li a {
 /* PACKAGES */
 #packages {
   padding: 34px 10px;
+  content-visibility: auto;
 }
 #packages h2 {
   font-size: 34px;
@@ -268,6 +271,7 @@ nav .dropdown-menu li a {
 #contact {
   background: #F2F2F2;
   padding: 34px 10px;
+  content-visibility: auto;
 }
 #contact .trunk,
 #contact .emergency {
@@ -311,4 +315,5 @@ nav .dropdown-menu li a {
 #outro {
   background: #DFDFDF;
   padding: 34px 10px;
+  content-visibility: auto;
 }
